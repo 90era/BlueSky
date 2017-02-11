@@ -1,0 +1,10 @@
+Flask==0.10.1
+Flask-RESTFul
+setproctitle
+gevent
+tornado
+SpliceURL>=1.2
+requests
+#sh
+#uwsgi
+redis
